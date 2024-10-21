@@ -1,4 +1,4 @@
-Code for implementing the local smoothing method proposed in McEvoy and McKinnon, and code for generating the simulation results and figures presented in that paper.
+Code for implementing the local smoothing method proposed in "Improving the Power of Multiple Hypothesis Testing in Large Environmental Datasets Using Spatial Smoothing" by Kyle R. McEvoy and Karen A. McKinnon, and code for generating the simulation results and figures presented in that paper.
 
 All code for results and figures in the paper was written and executed in the R programming language using a 2021 M1 Macbook Pro. macOS versions 14.4-14.6 were used with the Apple Accelerate framework BLAS linked. R session and package info below. 
 
